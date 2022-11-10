@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dany!
-- 👀 I’m interested in computer games and vitrual reality.
-- 🌱 I’m currently learning how to program.
-- 💞️ I’m looking to collaborate on I don't know yet.
-- 📫 How to reach me dany.kratochwil@gmail.com
+- 👋 Hi, I’m Dany!
+- 👀 I’m interested in VR and AR.
+- 🌱 I'm a junior fullsack developer (Python, HTML, CSS, JavaScript, SQL, Java, React, SpringBoot).
+- 💞️ I’m looking to collaborate on a gaming / VR company.
+- 📫 How to reach me? dany.kratochwil@gmail.com
 
 <!---
 DeeKay81/DeeKay81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
