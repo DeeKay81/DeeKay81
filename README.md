@@ -2,7 +2,7 @@
 - 👀 I’m interested in VR and AR.
 - 🌱 I'm a junior fullsack developer (Python, HTML, CSS, JavaScript, SQL, Java, React, SpringBoot).
 - 💞️ I’m looking to collaborate on a gaming / VR company.
-- 📫 How to reach me? [dany.kratochwil@gmail.com](https://www.linkedin.com/in/dany-kratochwil-4660381a1)
+- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/dany-kratochwil-4660381a1)
 
 <!---
 DeeKay81/DeeKay81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
