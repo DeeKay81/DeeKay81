@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dany!
-- 👀 I’m interested in VR and AR.
-- 🌱 I'm a junior fullsack developer (Python, HTML, CSS, JavaScript, SQL, Java, React, SpringBoot).
-- 💞️ I’m looking to collaborate on a gaming / VR company.
+- 👀 I’m interested in security, VR and AR.
+- 🌱 I'm a junior fullsack developer (Python, HTML, CSS, JavaScript, SQL, Java, React, Spring).
+- 💞️ I’m looking to collaborate on a security / gaming / VR company.
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/dany-kratochwil-4660381a1)
 
 <!---
