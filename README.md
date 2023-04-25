@@ -1,10 +1,5 @@
 - 👋 Hi, I’m Dany!
-- 👀 I’m interested in security, VR and AR.
-- 🌱 I'm a junior fullsack developer (Python, HTML, CSS, JavaScript, SQL, Java, React, Spring).
-- 💞️ I’m looking to collaborate on a security / gaming / VR company.
+- 👀 I’m interested in security, AI, VR and AR.
+- 🌱 I'm a junior full stack developer (Python, HTML, CSS, JavaScript, SQL, Java, React.js, Spring Boot, Spring Security).
+- 💞️ I’m open to work.
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/dany-kratochwil-4660381a1)
-
-<!---
-DeeKay81/DeeKay81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
