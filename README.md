@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dany!
 - 👀 I’m interested in security, AI, VR and AR.
-- 🌱 I'm a junior full stack developer (Python, HTML, CSS, JavaScript, SQL, Java, React.js, Spring Boot, Spring Security).
-- 💞️ I already have a job.
+- 🌱 I'm a Junior Full Stack Developer (Python, HTML, CSS, JavaScript, SQL, Java 8 + 17, React.js, Spring Boot, Spring Security, Subversion, GitLab/GitHub).
+- 💞️ I have a job, but I'm always open for new experiences.
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/dany-kratochwil-4660381a1)
